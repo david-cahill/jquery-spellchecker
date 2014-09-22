@@ -1,6 +1,6 @@
 {
   "name": "jquery-spellchecker",
-  "version": "0.2.5",
+  "version": "0.2.6",
   "main": ["dist/js/jquery.spellchecker.js", "dist/css/jquery.spellchecker.css"],
   "ignore": [
     "**/.*",
@@ -9,7 +9,9 @@
     "test",
     "tests",
     "archive",
-    "vendor"
+    "vendor",
+    "dist/examples",
+    "dist/webservices"
   ],
    "devDependencies": {
     "grunt": "~0.3.16"
