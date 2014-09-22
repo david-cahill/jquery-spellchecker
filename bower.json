@@ -1,6 +1,6 @@
 {
   "name": "jquery-spellchecker",
-  "version": "0.2.4",
+  "version": "0.2.3",
   "main": ["dist/js/jquery.spellchecker.js", "dist/css/jquery.spellchecker.css"],
   "ignore": [
     "**/.*",
