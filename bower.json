@@ -10,9 +10,9 @@
     "tests",
     "archive",
     "vendor",
+    "src",
     "dist/examples",
-    "dist/webservices",
-    "src"
+    "dist/webservices"
   ],
    "devDependencies": {
     "grunt": "~0.3.16"
